@@ -1,5 +1,5 @@
 package simpleinterest
-
+import "fmt"
 func init() {  
     fmt.Println("Simple interest package initialized")
 }
